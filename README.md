@@ -124,7 +124,8 @@ Considering the balance between performance, interpretability, and simplicity, *
 
 ## 👤 Author
 **Priyanshu Jain**  
-Machine Learning Enthusiast  
+Machine Learning Enthusiast 
+https://github.com/PRIYANSHUJAINJECRC
 
 ---
 
